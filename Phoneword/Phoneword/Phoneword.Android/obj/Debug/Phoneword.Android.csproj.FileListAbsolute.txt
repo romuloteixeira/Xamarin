@@ -1,0 +1,6 @@
+D:\Source\Studing\Xamarin\Phoneword\Phoneword\Phoneword.Android\obj\Debug\Phoneword.Android.csprojAssemblyReference.cache
+D:\Source\Studing\Xamarin\Phoneword\Phoneword\Phoneword.Android\obj\Debug\App.xaml.g.cs
+D:\Source\Studing\Xamarin\Phoneword\Phoneword\Phoneword.Android\obj\Debug\MainPage.xaml.g.cs
+D:\Source\Studing\Xamarin\Phoneword\Phoneword\Phoneword.Android\obj\Debug\Phoneword.Android.csproj.CoreCompileInputs.cache
+D:\Source\Studing\Xamarin\Phoneword\Phoneword\Phoneword.Android\obj\Debug\Phoneword.Android.dll
+D:\Source\Studing\Xamarin\Phoneword\Phoneword\Phoneword.Android\obj\Debug\Phoneword.Android.pdb

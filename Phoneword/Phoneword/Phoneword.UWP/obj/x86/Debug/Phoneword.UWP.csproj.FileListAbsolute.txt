@@ -1,0 +1,16 @@
+D:\Source\Studing\Xamarin\Phoneword\Phoneword\Phoneword.UWP\obj\x86\Debug\Phoneword.UWP.csprojAssemblyReference.cache
+D:\Source\Studing\Xamarin\Phoneword\Phoneword\Phoneword.UWP\obj\x86\Debug\App.g.i.cs
+D:\Source\Studing\Xamarin\Phoneword\Phoneword\Phoneword.UWP\obj\x86\Debug\App.g.cs
+D:\Source\Studing\Xamarin\Phoneword\Phoneword\Phoneword.UWP\obj\x86\Debug\MainPage.g.i.cs
+D:\Source\Studing\Xamarin\Phoneword\Phoneword\Phoneword.UWP\obj\x86\Debug\MainPage.g.cs
+D:\Source\Studing\Xamarin\Phoneword\Phoneword\Phoneword.UWP\obj\x86\Debug\XamlTypeInfo.g.cs
+D:\Source\Studing\Xamarin\Phoneword\Phoneword\Phoneword.UWP\obj\x86\Debug\App.xaml
+D:\Source\Studing\Xamarin\Phoneword\Phoneword\Phoneword.UWP\obj\x86\Debug\MainPage.xaml
+D:\Source\Studing\Xamarin\Phoneword\Phoneword\Phoneword.UWP\obj\x86\Debug\App.xbf
+D:\Source\Studing\Xamarin\Phoneword\Phoneword\Phoneword.UWP\obj\x86\Debug\MainPage.xbf
+D:\Source\Studing\Xamarin\Phoneword\Phoneword\Phoneword.UWP\obj\x86\Debug\XamlSaveStateFile.xml
+D:\Source\Studing\Xamarin\Phoneword\Phoneword\Phoneword.UWP\obj\x86\Debug\App.xaml.g.cs
+D:\Source\Studing\Xamarin\Phoneword\Phoneword\Phoneword.UWP\obj\x86\Debug\MainPage.xaml.g.cs
+D:\Source\Studing\Xamarin\Phoneword\Phoneword\Phoneword.UWP\obj\x86\Debug\Phoneword.UWP.csproj.CoreCompileInputs.cache
+D:\Source\Studing\Xamarin\Phoneword\Phoneword\Phoneword.UWP\obj\x86\Debug\Phoneword.UWP.exe
+D:\Source\Studing\Xamarin\Phoneword\Phoneword\Phoneword.UWP\obj\x86\Debug\Phoneword.UWP.pdb
