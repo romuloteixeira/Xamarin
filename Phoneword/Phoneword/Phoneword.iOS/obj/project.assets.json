@@ -2,7 +2,7 @@
   "version": 3,
   "targets": {
     "Xamarin.iOS,Version=v1.0": {
-      "Xamarin.Forms/3.0.0.561731": {
+      "Xamarin.Forms/3.1.0.697729": {
         "type": "package",
         "compile": {
           "lib/Xamarin.iOS10/Xamarin.Forms.Core.dll": {},
@@ -127,7 +127,7 @@
       }
     },
     "Xamarin.iOS,Version=v1.0/win": {
-      "Xamarin.Forms/3.0.0.561731": {
+      "Xamarin.Forms/3.1.0.697729": {
         "type": "package",
         "compile": {
           "lib/Xamarin.iOS10/Xamarin.Forms.Core.dll": {},
@@ -252,7 +252,7 @@
       }
     },
     "Xamarin.iOS,Version=v1.0/win-x64": {
-      "Xamarin.Forms/3.0.0.561731": {
+      "Xamarin.Forms/3.1.0.697729": {
         "type": "package",
         "compile": {
           "lib/Xamarin.iOS10/Xamarin.Forms.Core.dll": {},
@@ -377,7 +377,7 @@
       }
     },
     "Xamarin.iOS,Version=v1.0/win-x86": {
-      "Xamarin.Forms/3.0.0.561731": {
+      "Xamarin.Forms/3.1.0.697729": {
         "type": "package",
         "compile": {
           "lib/Xamarin.iOS10/Xamarin.Forms.Core.dll": {},
@@ -503,10 +503,10 @@
     }
   },
   "libraries": {
-    "Xamarin.Forms/3.0.0.561731": {
-      "sha512": "ZnpuSybty6uZsgInJQD2QoYsjsdzPmu25EltSNJTnwgiQCW0MVZfwU6//jbt4Sf0ZfAiryi8MZFhU1I0NAP6Ew==",
+    "Xamarin.Forms/3.1.0.697729": {
+      "sha512": "YlFOM9u8onIRxJwYJ3l+O0wFKqzzrDjDrgnoBr1rct+eaQKU77vFydxvTP+WxYlYzR14hYvyLNC65L84+6ke6w==",
       "type": "package",
-      "path": "xamarin.forms/3.0.0.561731",
+      "path": "xamarin.forms/3.1.0.697729",
       "files": [
         ".signature.p7s",
         "build/netstandard1.0/Mono.Cecil.Mdb.dll",
@@ -536,13 +536,11 @@
         "lib/MonoAndroid10/Design/Xamarin.Forms.Core.Design.dll",
         "lib/MonoAndroid10/Design/Xamarin.Forms.Xaml.Design.dll",
         "lib/MonoAndroid10/FormsViewGroup.dll",
-        "lib/MonoAndroid10/FormsViewGroup.dll.mdb",
         "lib/MonoAndroid10/FormsViewGroup.pdb",
         "lib/MonoAndroid10/Xamarin.Forms.Core.dll",
         "lib/MonoAndroid10/Xamarin.Forms.Core.pdb",
         "lib/MonoAndroid10/Xamarin.Forms.Core.xml",
         "lib/MonoAndroid10/Xamarin.Forms.Platform.Android.dll",
-        "lib/MonoAndroid10/Xamarin.Forms.Platform.Android.dll.mdb",
         "lib/MonoAndroid10/Xamarin.Forms.Platform.Android.pdb",
         "lib/MonoAndroid10/Xamarin.Forms.Platform.dll",
         "lib/MonoAndroid10/Xamarin.Forms.Xaml.dll",
@@ -644,19 +642,20 @@
         "lib/uap10.0/Xamarin.Forms.Platform.UAP/PageControlStyle.xbf",
         "lib/uap10.0/Xamarin.Forms.Platform.UAP/Properties/Xamarin.Forms.Platform.UAP.rd.xml",
         "lib/uap10.0/Xamarin.Forms.Platform.UAP/Resources.xbf",
+        "lib/uap10.0/Xamarin.Forms.Platform.UAP/SliderStyle.xbf",
         "lib/uap10.0/Xamarin.Forms.Platform.UAP/TabbedPageStyle.xbf",
         "lib/uap10.0/Xamarin.Forms.Platform.UAP/Xamarin.Forms.Platform.UAP.xr.xml",
         "lib/uap10.0/Xamarin.Forms.Platform.dll",
         "lib/uap10.0/Xamarin.Forms.Xaml.dll",
         "lib/uap10.0/Xamarin.Forms.Xaml.xml",
-        "xamarin.forms.3.0.0.561731.nupkg.sha512",
+        "xamarin.forms.3.1.0.697729.nupkg.sha512",
         "xamarin.forms.nuspec"
       ]
     }
   },
   "projectFileDependencyGroups": {
     "Xamarin.iOS,Version=v1.0": [
-      "Xamarin.Forms >= 3.0.0.561731"
+      "Xamarin.Forms >= 3.1.0.697729"
     ]
   },
   "packageFolders": {
@@ -695,7 +694,7 @@
         "dependencies": {
           "Xamarin.Forms": {
             "target": "Package",
-            "version": "[3.0.0.561731, )"
+            "version": "[3.1.0.697729, )"
           }
         }
       }
