@@ -8,17 +8,18 @@ namespace Phoneword.Droid
                 ConfigurationChanges = ConfigChanges.ScreenSize | ConfigChanges.Orientation)]
     public class MainActivity : global::Xamarin.Forms.Platform.Android.FormsAppCompatActivity
     {
-        //inter
-        //protected override void OnCreate(Bundle bundle)
-        //{
-        //    TabLayoutResource = Resource.Layout.Tabbar;
-        //    ToolbarResource = Resource.Layout.Toolbar;
+        internal static MainActivity Instance { get; private set; }
 
-        //    base.OnCreate(bundle);
+        protected override void OnCreate(Bundle bundle)
+        {
+            TabLayoutResource = Resource.Layout.Tabbar;
+            ToolbarResource = Resource.Layout.Toolbar;
 
-        //    global::Xamarin.Forms.Forms.Init(this, bundle);
-        //    LoadApplication(new App());
-        //}
+            base.OnCreate(bundle);
+            Instance = this;
+            global::Xamarin.Forms.Forms.Init(this, bundle);
+            LoadApplication(new App());
+        }
     }
 }
 

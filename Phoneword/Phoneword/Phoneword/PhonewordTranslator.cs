@@ -10,7 +10,7 @@ namespace Phoneword
             "PQRS", "TUV", "WXYZ"
         };
 
-        static string ToNumber(string raw)
+        public static string ToNumber(string raw)
         {
             if (string.IsNullOrWhiteSpace(raw))
             {

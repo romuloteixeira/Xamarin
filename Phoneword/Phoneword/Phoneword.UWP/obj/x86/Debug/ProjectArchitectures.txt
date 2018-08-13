@@ -1,0 +1,1 @@
+D:\Source\Studing\Xamarin\Phoneword\Phoneword\Phoneword.UWP\Phoneword.UWP.csproj;x86

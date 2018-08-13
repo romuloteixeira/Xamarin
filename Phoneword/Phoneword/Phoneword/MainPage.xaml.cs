@@ -14,7 +14,7 @@ namespace Phoneword
 
         void OnTranslate(object sender, EventArgs e)
         {
-            translatedNumber = PhonewordTranslator.ToNumber(phoneNumberText);
+            translatedNumber = PhonewordTranslator.ToNumber(phoneNumberText.Text);
 
             if (!string.IsNullOrWhiteSpace(translatedNumber))
             {

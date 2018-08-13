@@ -3,7 +3,7 @@ using Android.Telephony;
 using Phoneword.Droid;
 using System.Linq;
 using Xamarin.Forms;
-using Uri = Android.Uri;
+using Uri = Android.Net.Uri;
 
 [assembly: Dependency(typeof(PhoneDialer))]
 namespace Phoneword.Droid
@@ -16,7 +16,7 @@ namespace Phoneword.Droid
             var intent = new Intent(Intent.ActionDial);
             intent.SetData(Uri.Parse("tel:" + number));
 
-            if (context = null)
+            if (context == null)
             {
                 return false;
             }
